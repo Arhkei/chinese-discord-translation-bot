@@ -1,0 +1,1 @@
+# chinese-discord-translation-bot

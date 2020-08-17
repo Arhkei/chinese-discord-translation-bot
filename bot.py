@@ -5,7 +5,7 @@ client = discord.Client()
 translator = Translator()
 
 # token from https://discordapp.com/developers
-token = 'NzE4NTQzOTM5MTE1ODEwOTI2.XtqbOw.WJVvaia-jsyUPWM2tnbWBnaK1BA'
+token = ''
 translation_channel = 718543716482023505
 general_channel = 718347361151090710
 # bot is ready
